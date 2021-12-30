@@ -15,6 +15,11 @@
         display: none;
     }
 }
+@media (max-width:620px) {
+    ul {
+        font-size: 13px;
+    }
+}
 :root {
     --cor00: #9EE6B3;
     --cor01: #58E07E;
